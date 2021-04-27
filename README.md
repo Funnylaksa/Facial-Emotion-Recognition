@@ -15,4 +15,5 @@ https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-dee
 
 
 
-* This is not written by me. Taken from a separate repo. Used MiniConda3(python3.6.3) and added requirements.txt in case someone else needs info to get it working. 
+
+** This is not written by me. Taken from a separate repo. Used MiniConda3(python3.6.3) and added requirements.txt in case someone else needs info to get it working. 
