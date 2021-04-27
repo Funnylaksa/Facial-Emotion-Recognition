@@ -1,3 +1,5 @@
+## This is not written by me. Taken from a separate repo. Used MiniConda3(python3.6.3) and added requirements.txt in case someone else needs info to get it working. 
+
 # Real-Time-Face-Expression-Recognition
 
 Real time recognition of facial expressions using Keras, Flask and OpenCV.
